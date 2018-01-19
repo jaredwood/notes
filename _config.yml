@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: Random Notes
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
-logo: site-logo.png
-url: https://mmistakes.github.io/so-simple-theme
+description: Testing whether this is a good place for random notes.
+logo: #site-logo.png
+url: https://jaredwood.github.io/notes
 
 # Jekyll configuration
 
@@ -32,28 +32,28 @@ mathjax: true
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
-comments: true
+comments: #true
 
 # Site owner
 owner:
-  name: Michael Rose
-  avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
-  disqus-shortname: sosimpletheme
-  twitter: mmistakes
-  facebook: michaelrose
-  github: mmistakes
+  name: Jared Wood
+  avatar: #michael-rose-photo.jpg
+  email: jared.jwood@gmail.com
+  disqus-shortname:
+  twitter: #mmistakes
+  facebook: #michaelrose
+  github: jaredwood
   stackexchange:
   linkedin:
-  instagram: mmistakes
+  instagram: #mmistakes
   flickr:
-  tumblr: mademistakes
+  tumblr: #mademistakes
   pinterest:
   weibo:
   google:
-    plus: MichaelRoseDesign
-    analytics: UA-2011187-2
-    verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 7855747535
-  bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
+    plus: #MichaelRoseDesign
+    analytics: #UA-2011187-2
+    verify: #UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
+    ad-client: #ca-pub-7328585512091257
+    ad-slot: #7855747535
+  bing-verify: #D81F4C18A6CB3018F64D7C827D953DFD

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Sample Articles
+title: Articles
 excerpt: "An archive of articles sorted by date."
-search_omit: true
+search_omit:
 ---
 
 <ul class="post-list">
