@@ -2,7 +2,7 @@
 
 title: Random Notes
 locale: en_US
-description: Testing whether this is a good place for random notes.
+description: Blog for random notes on machine learning, signal processing, etc.
 logo: #site-logo.png
 url: https://jaredwood.github.io/notes
 
@@ -37,21 +37,21 @@ comments: #true
 # Site owner
 owner:
   name: Jared Wood
-  avatar: #michael-rose-photo.jpg
-  email: jared.jwood@gmail.com
+  avatar: #
+  email: jaredgw@gmail.com
   disqus-shortname:
-  twitter: #mmistakes
-  facebook: #michaelrose
+  twitter: #
+  facebook: #
   github: jaredwood
   stackexchange:
   linkedin:
-  instagram: #mmistakes
+  instagram: #
   flickr:
-  tumblr: #mademistakes
+  tumblr: #
   pinterest:
   weibo:
   google:
-    plus: #MichaelRoseDesign
+    plus: #
     analytics: #UA-2011187-2
     verify: #UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
     ad-client: #ca-pub-7328585512091257
